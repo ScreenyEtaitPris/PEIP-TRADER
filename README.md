@@ -68,4 +68,4 @@ Plan pour la présentation:
 
 Merci de m'envoyer les slides de présentation une semaine avant la soutenance.
 
-## **If you want to look at the final/explanation readme, look at Rendu_Clément_PASQUET.ipynb ! ( be careful, it's a jupyter notebook ) **
+## **If you want to look at the final/explanation readme, look at Rendu_Clément_PASQUET.ipynb ! ( be careful, it's a jupyter notebook )**
