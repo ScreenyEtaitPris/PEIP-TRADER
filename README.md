@@ -67,3 +67,5 @@ Plan pour la présentation:
     - répondre à la question de l'introduction
 
 Merci de m'envoyer les slides de présentation une semaine avant la soutenance.
+
+# **If you want to look at the final/explanation readme, look at Rendu_Clément_PASQUET.ipynb !!**
